@@ -1,4 +1,4 @@
-# BookSearchApp
+# BookSearch
 
 - Book Searching App
 - First Objective-C project
